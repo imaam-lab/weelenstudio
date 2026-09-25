@@ -854,7 +854,7 @@ html.has-cursor select { cursor: pointer; }
   -webkit-mask-image: radial-gradient(circle at 50% 45%, transparent 22%, #000 90%);
   mask-image: radial-gradient(circle at 50% 45%, transparent 22%, #000 90%);
 }
-.founder__photo img { position: relative; width: 550px; height: 950px; opacity: 0.9; }
+.founder__photo img { position: relative; width: 550px; height: 750px; opacity: 0.9; }
 .founder__photo figcaption { position: absolute; left: 1.25rem; bottom: 1rem; font-size: var(--fs-sm); color: var(--text-muted); }
 .founder__body { display: grid; gap: 1.5rem; justify-items: start; }
 .founder__role { font-size: var(--fs-lead); color: var(--accent); font-weight: 500; }
