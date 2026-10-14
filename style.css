@@ -849,12 +849,12 @@ html.has-cursor select { cursor: pointer; }
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='56' height='100' viewBox='0 0 56 100'%3E%3Cpath d='M28 66 0 50V16L28 0l28 16v34zM28 66v34' fill='none' stroke='%23d4d4d8'/%3E%3Cpath d='M28 0v34L0 50v34l28 16 28-16V50L28 34' fill='none' stroke='%23e4e4e7'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1080px' height='1350px' viewBox='0 0 56 100'%3E%3Cpath d='M28 66 0 50V16L28 0l28 16v34zM28 66v34' fill='none' stroke='%23d4d4d8'/%3E%3Cpath d='M28 0v34L0 50v34l28 16 28-16V50L28 34' fill='none' stroke='%23e4e4e7'/%3E%3C/svg%3E");
   background-size: 56px 100px;
   -webkit-mask-image: radial-gradient(circle at 50% 45%, transparent 22%, #000 90%);
   mask-image: radial-gradient(circle at 50% 45%, transparent 22%, #000 90%);
 }
-.founder__photo img { position: relative; width: 1080px; height: 1920px; opacity: 0.9; }
+.founder__photo img { position: relative; width: 1080px; height: 1350px; opacity: 0.9; }
 .founder__photo figcaption { position: absolute; left: 1.25rem; bottom: 1rem; font-size: var(--fs-sm); color: var(--text-muted); }
 .founder__body { display: grid; gap: 1.5rem; justify-items: start; }
 .founder__role { font-size: var(--fs-lead); color: var(--accent); font-weight: 500; }
